@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6b7d3a0-dde6-45a1-8865-a1d126f6c73c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/dir/1 Android平台架构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dir/Android深入学习-开篇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android Framework用户空间进程梳理.mindnode/viewState.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Android Framework用户空间进程梳理.mindnode/viewState.plist" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,14 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="系统启动架构图.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/系统启动架构图.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Android深入学习-开篇.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Android深入学习-开篇.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dir/Android深入学习-开篇.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -40,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1 Android平台架构.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1 Android平台架构.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dir/1 Android平台架构.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SECOND">
@@ -76,8 +69,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dir/Android深入学习-开篇.md" />
         <option value="$PROJECT_DIR$/dir/1 Android平台架构.md" />
+        <option value="$PROJECT_DIR$/dir/Android深入学习-开篇.md" />
       </list>
     </option>
   </component>
@@ -283,16 +276,17 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32969698" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13107823" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15574348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -311,6 +305,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dir/1 Android平台架构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="570">
+            <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/系统启动架构图.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -321,18 +327,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dir/1 Android平台架构.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="570">
-            <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
           </first_editor>
           <second_editor>
             <js_state />
